@@ -1,6 +1,7 @@
 # Contest Api
 
-it returns a list of contests like hackathons, programming contests, etc..
+it returns a list of contests like hackathons, programming contests, etc.. Its for learning purpose....
+Avoid using this.
 
 
 ## Installation
